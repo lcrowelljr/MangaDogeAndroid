@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65851254027",
+    "project_id": "mangadoge-4d5aa",
+    "storage_bucket": "mangadoge-4d5aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65851254027:android:dd0a96b4df7a65f59a2e0e",
+        "android_client_info": {
+          "package_name": "com.seohajgod.mangadoge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DKUUzPpINrHX_3ctsTSUbZoLFk-1Yx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
